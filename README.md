@@ -13,7 +13,7 @@ pip install jupyter nbsphinx
 ## プロジェクトを作成
 
 ```bash
-sphinx-quickstart -q -p nbsample -a nbauther --sep
+sphinx-quickstart -q -p nbsample -a nbauther -l ja --sep
 ```
 
 `source/conf.py`
